@@ -89,5 +89,5 @@ ENV/
 .ropeproject
 
 # Enterprise Architect
-.eap
-.ldb
+*.eap
+*.ldb
